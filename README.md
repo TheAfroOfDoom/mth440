@@ -1,5 +1,5 @@
 # mth440
-Projects done during MTH 440 in Fall 2019 at UMassD with the ultimate goal of trying to make the process in which we train networks to detect gravitational waves more efficiently.
+Projects done during MTH 440 in Fall 2019 at UMassD with the ultimate goal of trying to make the process in which we train networks to detect gravitational waves more efficient.
 
 ### waves.py:
 Generates 60000 training images and 6000 test images of sine, gaussian, and quadratic waves.  Then, uses `tensorflow` to train a network with the data to classify between the different types of waves.
